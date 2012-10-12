@@ -1,15 +1,16 @@
-<?xml?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <workspace_user>
 	<active_project>
 		<label>SomeProg</label>
 	</active_project>
 	<projects>
 		<project>
-			<label>Geometry</label>
+			<label>ConversionApp</label>
 			<showfiles>false</showfiles>
 		</project>
 		<project>
-			<label>ConversionApp</label>
+			<label>Geometry</label>
 			<showfiles>false</showfiles>
 		</project>
 		<project>
@@ -37,4 +38,24 @@
 			<active>true</active>
 		</docitem>
 	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>HelloApp\HelloApp.java.sdk</path>
+			<symbols>
+				<symbol>HelloApp</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>Welcome\Zodiac.java.sdk</path>
+			<symbols>
+				<symbol>Zodiac</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>Geometry\Geometry.java.sdk</path>
+			<symbols>
+				<symbol>Geometry</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
 </workspace_user>

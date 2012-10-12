@@ -1,16 +1,17 @@
-<?xml?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <project>
 	<settings>
-		<version>1.01</version>
 		<label>Geometry</label>
 		<root_path>\</root_path>
 		<output_path>\</output_path>
-		<version/>
 		<source_path>\</source_path>
 		<jdkprofile_ref/>
 		<compiler_ref/>
 		<ant_ref/>
 	</settings>
+	<ant_events/>
+	<run_items/>
 	<runtimes>
 		<runtime>
 			<label>&lt;Default&gt;</label>
@@ -19,6 +20,7 @@
 			<debugger_ref/>
 			<param/>
 			<run>Geometry</run>
+			<verify>true</verify>
 		</runtime>
 	</runtimes>
 	<libraries/>
@@ -26,7 +28,6 @@
 		<include>
 			<fileitem>
 				<path>Geometry.java</path>
-				<source>true</source>
 			</fileitem>
 		</include>
 	</files>

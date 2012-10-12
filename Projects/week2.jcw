@@ -1,7 +1,10 @@
-<?xml?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <workspace>
 	<settings>
 		<label>week2</label>
+		<id>0</id>
+		<version>0</version>
 	</settings>
 	<users>
 		<user>
@@ -10,10 +13,10 @@
 	</users>
 	<projects>
 		<project>
-			<path>Geometry\Geometry.jcp</path>
+			<path>ConversionApp\ConversionApp.jcp</path>
 		</project>
 		<project>
-			<path>ConversionApp\ConversionApp.jcp</path>
+			<path>Geometry\Geometry.jcp</path>
 		</project>
 		<project>
 			<path>SomeProg\SomeProg.jcp</path>
