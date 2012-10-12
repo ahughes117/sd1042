@@ -1,0 +1,28 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>week3</label>
+	</settings>
+	<users>
+		<user>
+			<path>week3.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>OrderAssistant\OrderAssistant.jcp</path>
+		</project>
+		<project>
+			<path>MathsApp\MathsApp.jcp</path>
+		</project>
+		<project>
+			<path>SecretsAppv2\SecretsAppv2.jcp</path>
+		</project>
+		<project>
+			<path>SecretsApp\SecretsApp.jcp</path>
+		</project>
+		<project>
+			<path>CompareApp\CompareApp.jcp</path>
+		</project>
+	</projects>
+</workspace>

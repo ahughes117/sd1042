@@ -1,0 +1,40 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>SomeProg</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Geometry</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>ConversionApp</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>SomeProg</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>SomeProg\SomeProg.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>ConversionApp\ConversionApp.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Geometry\Geometry.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

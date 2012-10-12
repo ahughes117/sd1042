@@ -1,0 +1,22 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>week2</label>
+	</settings>
+	<users>
+		<user>
+			<path>week2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Geometry\Geometry.jcp</path>
+		</project>
+		<project>
+			<path>ConversionApp\ConversionApp.jcp</path>
+		</project>
+		<project>
+			<path>SomeProg\SomeProg.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>sd1042_week1</label>
+		<id>0</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>week1.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>HelloApp\HelloApp.jcp</path>
+		</project>
+		<project>
+			<path>Welcome\Welcome.jcp</path>
+		</project>
+	</projects>
+</workspace>

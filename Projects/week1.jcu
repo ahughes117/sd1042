@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>HelloApp</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>HelloApp</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>Zodiac</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<symboltables>
+		<symboltable>
+			<path>HelloApp\HelloApp.java.sdk</path>
+			<symbols>
+				<symbol>HelloApp</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>Welcome\Zodiac.java.sdk</path>
+			<symbols>
+				<symbol>Zodiac</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

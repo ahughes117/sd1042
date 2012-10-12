@@ -1,0 +1,41 @@
+<?xml?>
+<project>
+	<settings>
+		<version>1.01</version>
+		<label>Test</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<version/>
+		<source_path>src\</source_path>
+		<jdkprofile_ref>JDK version 1.5.0_02</jdkprofile_ref>
+		<compiler_ref>&lt;Default&gt;</compiler_ref>
+		<ant_ref/>
+	</settings>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>Test</run>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<fileitem>
+				<path>src\Test.java</path>
+				<source>true</source>
+			</fileitem>
+			<fileitem>
+				<path>src\TestFrame.java</path>
+				<source>true</source>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>
