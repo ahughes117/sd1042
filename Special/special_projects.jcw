@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>special_projects</label>
+		<id>0</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>special_projects.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>OrderAssistant\OrderAssistant.jcp</path>
+		</project>
+	</projects>
+</workspace>
