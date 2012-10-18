@@ -1,0 +1,19 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>week4</label>
+	</settings>
+	<users>
+		<user>
+			<path>week4.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>shapes\shapes.jcp</path>
+		</project>
+		<project>
+			<path>TimesTableApp\TimesTableApp.jcp</path>
+		</project>
+	</projects>
+</workspace>
