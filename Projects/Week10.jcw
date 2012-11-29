@@ -1,0 +1,19 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Week10</label>
+	</settings>
+	<users>
+		<user>
+			<path>Week10.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ExtraChallengeW10\ExtraChallengeW10.jcp</path>
+		</project>
+		<project>
+			<path>Week10\Week10.jcp</path>
+		</project>
+	</projects>
+</workspace>

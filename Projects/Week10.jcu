@@ -1,0 +1,30 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>ExtraChallengeW10</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>ExtraChallengeW10</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>CircleApp</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Week10\Circle.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>Week10\CircleTester.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>
